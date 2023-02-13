@@ -1,0 +1,2 @@
+#!/bin/bash
+input.file | tr -d 'hH'
